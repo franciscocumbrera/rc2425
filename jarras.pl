@@ -1,3 +1,7 @@
+/*
+1.- Definir el estado
+2.- Definir EstadoInicial y EstadoFinal
+3.- Definir los movimientos4.- Definir el Camino desde el Ei al Ef
 4.- Definir el Camino desde el Ei al Ef
 
 */
